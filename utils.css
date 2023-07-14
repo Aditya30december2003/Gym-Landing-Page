@@ -1,0 +1,154 @@
+.min-h-screen{
+   min-height: 100vh;
+}
+
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.name{
+    margin: 60px 0px;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.3rem;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 12px;
+}
+
+.list{
+    list-style: none;
+    margin: 40px 0px 0px 412px;
+    background-color: rgb(189, 188, 188);
+    width: 372px;
+    height: 37px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+}
+
+.list li{
+    margin: 0px 12px;
+}
+
+.font-bold{
+    font-weight: bold;
+}
+
+.my1{
+    margin-top: 73px;
+}
+
+.my2{
+    height: 20px;
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.btn{
+    background-color:rgb(67, 183, 164) ;
+    color: rgb(255, 255, 255);
+    width: 90px;
+    height: 40px;
+    margin: 37px 0px;
+    border-radius: 60px;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+}
+
+img{
+    display: flex;
+    align-items: center;
+    margin: 50px 29px;
+    float :right;
+}
+
+.my3{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: 1.4rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.my4{
+    margin-top: 0px;
+    font-size: 1.0rem;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.boxes{
+    display: flex;
+    align-items: center;
+}
+
+.box{
+    margin: 40px 46px;
+    border: 2px solid black;
+    min-width: 19vw;
+    border-radius: 10px;
+}
+
+.li2{
+   list-style: none;
+   font-size: 12px;
+   font-family: 'Roboto Mono', monospace;
+   
+}
+.box ul li{
+    margin: 12px 2px;
+}
+
+.sign{
+    background-color:rgb(248, 248, 248) ;
+    color: rgb(67, 183, 164);
+    width: 150px;
+    height: 40px;
+    /* margin: 37px 0px; */
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.sign:hover{
+    background-color:rgb(67, 183, 164) ;
+    color: rgb(248, 248, 248);
+}
+
+.sign1{
+    background-color:rgb(67, 183, 164) ;
+    color: rgb(248, 248, 248);
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: 'Roboto Mono', monospace;
+    cursor: pointer;
+    font-weight: 900;
+}
+
+.pro{
+    font-family: 'Roboto Mono', monospace;
+}
+
+footer{
+    padding: 20px;
+    text-align: center;
+}
+
+.head3{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.table{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    justify-content:space-around;
+    min-width: 25vw;
+}
